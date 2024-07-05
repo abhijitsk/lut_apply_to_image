@@ -1,1 +1,1 @@
-a python implementation of LUTS to a sample image
+Using python to implement LUTs to an image using pythons Pillow module. I have collected a set of free LUTs from the internet in the LUTsFolder. with this code you can apply the luts in the LUTsFolder to an image which is hardcoded in the main.py
